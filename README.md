@@ -6,7 +6,7 @@
 [![Documentation Status](https://img.shields.io/badge/docs-release-yellow.svg?style=flat)](http://nodemcu.readthedocs.io/en/release/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](#license)
 
-NodeMCU is an open source [Lua](https://www.lua.org/) based firmware for the [ESP8266 WiFi SOC from Espressif](https://www.espressif.com/en/products/socs/esp8266) and uses an on-module flash-based [SPIFFS](https://github.com/pellepl/spiffs) file system. NodeMCU is implemented in C and is layered on the [Espressif NON-OS SDK](https://github.com/espressif/ESP8266_NONOS_SDK).
+
 
 🔬 AI-Driven Medical Imaging & Report Analysis System with Multilingual Voice Output
 🧠 Project Description
